@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="F:/projekte/Kirchentage.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/tools/de/sab/church/jarDesc.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=tools/&lt;de.sab.church{Start.java[Start" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=tools/&lt;de.sab.church"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{ListComboBoxModel.java"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{FoeDecimalFormat.java"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{RowLayout.java"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{MinMaxPanel.java"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{DecimalField.java"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{ColLayout.java"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{DigitList.java"/>
+        <javaElement handleIdentifier="=tools/&lt;de.sab.util{MinimumLayout.java"/>
+    </selectedElements>
+</jardesc>

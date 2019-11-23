@@ -1,0 +1,69 @@
+1	so	o	Quasimodogeniti
+2	so	o	Misericordias Domini
+3	so	o	Jubilate 
+4	so	o	Cantate
+5	so	o	Rogate(Jucunditatis)
+6	so	o	Exaudi
+7	so	o	Pfingsten
+8	so	o	Trinitatis
+-7	di	o	Fastnacht
+-7	so	o	Quinquagesima (Estomihi)
+-9	so	o	Septuagesima
+-8	so	o	Sexagesima
+-6	so	o	Invocavit
+-5	so	o	Reminiscere
+-4	so	o	Oculi
+-3	so	o	Laetare
+-2	so	o	Judica
+-1	so	o	Palmarum
+-1	do	o	Gründonnerstag
+5	do	o	Himmelfahrt
+1.9.	Ägidius
+30.11.	Andreas
+24.8.	Bartholomäus
+21.3.	Benedict
+5.6.	Bonifatius
+21.10.	Burkhardt
+5.11.	Elisabeth
+20.1.	Fabian Sebastian
+4.10.	Franziscus
+16.10.	Gallus
+12.3.	Gregor
+17.3.	Gertraudt
+1.5.	Jacobi
+25.7.	Jacob d. Ä.
+27.12.	Johannis Evangelist
+24.6.	Johannistag
+29.8.	Johannes Enthauptung
+25.11.	Katharina
+8.7.	Kilian
+14.9.	Kreuzerhöhung
+10.8.	Laurentius
+13.12.	Lucia Odilia
+20.7.	Margareta
+8.9.	Mariae Geburt
+2.7.	Mariae Heimsuchung
+15.8.	Mariae Himmelfahrt
+2.2.	Mariae Lichtmeß
+25.3.	Mariae Verkündigung
+22.7.	Maria Magdalena	
+11.11.	Martin
+21.9.	Matthäus
+8.6.	Medardus
+29.9.	Michaelis
+25.1.	Pauli Bekehrung
+29.6.	Peter Paul
+1.8.	Petri Kettenfeier
+22.2.	Petri Stuhlfeier
+1.5.	Phillip und Jacobus
+28.10.	Simon und Judas
+26.12.	Stephan
+21.12.	Thomas
+4.6.	Ulrich
+21.10.	Ursula
+14.2.	Valentin
+15.6.	Vitus
+1.11.	Allerheiligen
+24.6.	Johannes der Täufer
+25.12.	Weihnachten
+6.1.	Drei Könige
