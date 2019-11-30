@@ -68,6 +68,7 @@ public class Start
 		myFrame.pack();
 		myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		myFrame.setVisible(true);
+		myFrame.setSize(800, 600);
 	}
 
 	
